@@ -59,7 +59,7 @@ img,svg{display:block;max-width:100%}
 :root[data-theme="mist"] #hd{border-color:#0E1F3A}
 :root[data-theme="mist"] #hd .brand b,:root[data-theme="mist"] #hd .icon-btn{color:#EAF1FA}
 :root[data-theme="mist"] #hd .icon-btn:hover{background:rgba(255,255,255,.1)}
-:root[data-theme="mist"] .brand img,:root[data-theme="dark"] .brand img{content:url(assets/ezicargo-mark-light.png)}
+:root[data-theme="mist"] .brand img,:root[data-theme="dark"] .brand img{content:url(../assets/ezicargo-mark-light.png)}
 :root[data-theme="mist"] .search{background:#fff;border-color:#3FA9E8}
 :root[data-theme="mist"] .search input{color:#0F1E33}
 
